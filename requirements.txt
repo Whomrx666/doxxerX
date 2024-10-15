@@ -1,0 +1,8 @@
+Faker
+pypng
+requests
+pyshorteners
+pyqrcode
+phonenumbers
+socialscan
+google
