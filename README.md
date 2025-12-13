@@ -2,7 +2,7 @@
 ![doxxerX preview](doxxerX.jpg)
 
 ## introduction
-doxxerX is A tool that integrates the collection of various tools, techniques and sources of information, making it easier to doxx.Everything a doxxer needs to always have at hand.
+doxxerX is A tool that integrates the collection of various tools, techniques and sources of information, making it easier to doxx.Everything a doxxer needs to always have at hand.{Updated V.0.2}
 
 ## Instalations
 ```
