@@ -13,7 +13,6 @@ $ pkg install python -y
 $ git clone https://github.com/Whomrx666/doxxerX.git
 $ cd doxxerX
 $ pip install -r requirements.txt
-$ bash install.sh
 $ python doxxerX.py
 ```
 
