@@ -22,6 +22,13 @@ $ python doxxerX.py
 - **third**: Follow the tool instructions
 - **last**: The tools will automatically do their respective tasks
 
+
+## Instructions
+- **First**: Install tools according to the instructions above
+- **Second**: Select one of the tools you want to run
+- **Third**: Follow the tool instructions
+- **Last**: The tools will automatically do their respective tasks
+
 # Tested in
 | My Tested | ✔️ |
 |--------|--------|
@@ -33,11 +40,12 @@ $ python doxxerX.py
 ---------
 
 ## Observation
-This is a tool for education only, I am not responsible for any misuse
+This is a tool for education only, I am not responsible for any misuse.
+
 ### Original Author
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
-### <<< If you copy , Then Give me The Credits >>>
+### <<< If you copy, then give me the credits >>>
 
 ## CONNECT WITH ME :
 
@@ -57,5 +65,3 @@ This is a tool for education only, I am not responsible for any misuse
 <p align="left">
   <img src="https://img.shields.io/badge/🌟_Thank_you_for_visiting!-808080?style=for-the-badge&logo=github" alt="Thanks badge"/>
 </p>
-
----
